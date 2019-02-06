@@ -1,5 +1,5 @@
 def introduction(name)                  #method of introduction with arg (name)
-  puts "Hi, my name is #{name}."        # puts phrase with 
+  puts "Hi, my name is #{name}."        # puts phrase with #{name} argumenet
 end
 
 def introduction_with_language(name, lanuguage)
