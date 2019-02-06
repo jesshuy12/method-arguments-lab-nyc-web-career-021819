@@ -1,5 +1,5 @@
-def introduction(name)
-  puts "Hi, my name is #{name}."
+def introduction(name)                  #method of introduction with arg (name)
+  puts "Hi, my name is #{name}."        # puts phrase with 
 end
 
 def introduction_with_language(name, lanuguage)
